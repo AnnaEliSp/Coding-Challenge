@@ -1,0 +1,70 @@
+body {
+    background-image:url('background.jpg');
+    background-size: cover;
+}
+
+.container {
+    width: 900px;
+    height: 600px;
+    margin: auto;
+    padding: 70px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-family: Comic Sans Ms;
+    border-radius: 25px;
+}
+
+header {
+    text-align: center;
+    margin: 15px;
+}
+
+.logo {
+    width: 200px;
+    height: 90px;
+}
+
+#text-logo {
+    color: greenyellow;
+    font-size: 22px;
+}  
+
+nav {
+    text-align: center;
+    background-color: greenyellow;
+    padding: 8px;
+}
+
+button {
+    font-size: 10px;
+}
+
+main {
+    color: white;
+}
+
+.address, .status {
+    font-size: 12px;
+}
+
+#charge1 {
+    height: 20px;
+    width: 250px;
+    background-color: orange;
+    border-radius: 5px;
+}
+#charge2 {
+    height: 20px;
+    width: 400px;
+    background-color: rgb(3, 162, 3);
+    border-radius: 5px;
+}
+#charge3 {
+    height: 20px;
+    width: 100px;
+    background-color: red;
+    border-radius: 5px;
+}
+
+.scooter-type {
+    margin: 15px;
+}
